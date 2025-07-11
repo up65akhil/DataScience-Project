@@ -1,2 +1,2 @@
 # DataScience
-Data Science Algorithms
+Data Science Projects
